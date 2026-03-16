@@ -39,10 +39,11 @@
 
 ## 🏅 Certifications
 
-- 📊 **PL-300** — Microsoft Certified Power BI Data Analyst Associate
-- ☁️ **AZ-900** — Azure Fundamentals
-- 🗄️ **DP-900** — Azure Data Fundamentals
-- 🔧 **DP-203** — Azure Data Engineer Associate
+- 📊 **PL-300** — [Microsoft Certified Power BI Data Analyst Associate](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Microsoft%20Certified%20Power%20BI%20Data%20Analyst%20Associate%20(PL%20300).pdf)
+- ☁️ **AZ-900** — [Azure Fundamentals](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Microsoft%20Certified%20Azure%20Fundamentals%20(AZ-900).pdf)
+- 🗄️ **DP-900** — [Azure Data Fundamentals](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Microsoft%20Certified%20Azure%20Data%20Fundamentals%20(DP-900).pdf)
+- 🔧 **DP-203** — [Azure Data Engineer Associate](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Microsoft%20Certified%20Azure%20Data%20Engineer%20Associate%20(DP-203).pdf)
+
 
 ---
 
@@ -58,9 +59,9 @@
 
 ## 🏆 Awards
 
-- 🥇 Insta Award — Excellence in Data Engineering (Infosys)
-- 🤝 Insta Award — Valuable Team Contribution (Infosys)
-- 🌟 Appreciation Award — Carlsberg Data Analytics Department Head
+- 🥇 **Insta Award 1** — [Excellence in Data Engineering (Infosys)](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Insta_Award1.png)
+- 🤝 **Insta Award 2** — [Valuable Team Contribution (Infosys)](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Insta_Award2.png)
+- 🌟 **Client Appreciation** — [Carlsberg Data Analytics Department Head](https://github.com/VinayKumar-DataScience/VinayKumar-DataScience/blob/main/assets/certifications/Client%20Appriciation_1.jpg)
 
 ---
 
