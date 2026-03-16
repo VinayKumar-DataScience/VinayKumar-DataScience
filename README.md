@@ -2,7 +2,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=VinayKumar-DataScience&color=blue&style=flat)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&color=2C3E50&width=600&lines=Hi+I'm+Vinay+Kumar+Devarakonda!+👋;Data+Scientist+%26+Data+Engineer;MS+Applied+Data+Science+%40+UVic+Canada;7+Years+of+Industry+Experience;Open+to+Internships+%26+Co-ops!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&&color=0D47A1&width=600&lines=Hi+I'm+Vinay+Kumar+Devarakonda!+👋;Data+Scientist+%26+Data+Engineer;MS+Applied+Data+Science+%40+UVic+Canada;7+Years+of+Industry+Experience;Open+to+Internships+%26+Co-ops!)](https://git.io/typing-svg)
 ---
 
 🎓 Master's Student in Applied Data Science @ University of Victoria, Canada
