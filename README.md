@@ -1,4 +1,10 @@
-# Hi, I'm Vinay Kumar Devarakonda 👋
+<!-- Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=VinayKumar-DataScience&color=blue&style=flat)
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi+I'm+Vinay+Kumar+Devarakonda!+👋;Data+Scientist+%26+Data+Engineer;MS+Applied+Data+Science+%40+UVic+Canada;7+Years+of+Industry+Experience;Open+to+Internships+%26+Co-ops!)](https://git.io/typing-svg)
+
+---
 
 🎓 Master's Student in Applied Data Science @ University of Victoria, Canada
 💼 Former Technology Lead @ Infosys | 7 Years in Data Engineering & BI
@@ -11,21 +17,32 @@
 
 ## 🛠 Skills & Tools
 
-**Cloud & Big Data:** Microsoft Azure · Azure Databricks · Azure Data Factory · Azure Data Lake · PySpark
-**Programming:** Python · SQL · Spark
-**BI & Reporting:** Power BI · Azure Analysis Services (AAS) · DAX
-**DevOps & Tools:** Azure DevOps · Git · Jupyter · VS Code
-**Databases:** MS SQL Server
-**OS:** Windows · Ubuntu/Linux
+<!-- Cloud -->
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+<!-- Programming -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+<!-- BI & Reporting -->
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<!-- Tools -->
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-- 📊 PL-300 — Microsoft Certified Power BI Data Analyst Associate
-- ☁️ AZ-900 — Azure Fundamentals
-- 🗄️ DP-900 — Azure Data Fundamentals
-- 🔧 DP-203 — Azure Data Engineer Associate
+- 📊 **PL-300** — Microsoft Certified Power BI Data Analyst Associate
+- ☁️ **AZ-900** — Azure Fundamentals
+- 🗄️ **DP-900** — Azure Data Fundamentals
+- 🔧 **DP-203** — Azure Data Engineer Associate
 
 ---
 
@@ -35,7 +52,7 @@
 |--------|-------------|-------|
 | [Data Pipeline – Supply Chain](link) | End-to-end pipeline from SAP BW to Azure Data Lake with Power BI dashboards | ADF · ADB · SQL · Power BI |
 | [ML Data Prep Workflows](link) | Automated data transformation scripts for ML-ready datasets | Python · PySpark · Databricks |
-| [Coming Soon 🚧](link) | MS Applied Data Science capstone project | Python · Scikit-learn · Azure |
+| [Coming Soon 🚧](#) | MS Applied Data Science capstone project | Python · Scikit-learn · Azure |
 
 ---
 
@@ -49,12 +66,14 @@
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayKumar-DataScience&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar-DataScience&layout=compact&theme=default)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayKumar-DataScience&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar-DataScience&layout=compact&theme=default" height="165"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumar.devarakonda1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar-devarakonda-a53b17a8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinaykumar.devarakonda1@gmail.com)
